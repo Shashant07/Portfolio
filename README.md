@@ -76,34 +76,6 @@ src/
 
 ---
 
-## 🚀 Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/Shashant07/shashant-portfolio.git
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Start Development Server
-
-```bash
-npm run dev
-```
-
-### Build Application
-
-```bash
-npm run build
-```
-
----
-
 ## 📱 Portfolio Sections
 
 - Home
