@@ -11,8 +11,7 @@ https://shashantpandit.planet1.in/
 ---
 
 ## 📸 Preview
-
-![Portfolio Preview](src/assets/portfolio-shashant.png)
+![Portfolio preview](portfolio-shashant.png)
 
 ---
 
